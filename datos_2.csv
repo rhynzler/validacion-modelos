@@ -1,0 +1,5 @@
+H,1,2,3,4,5,6,7,8,9,10,11,12,13
+real,pos,pos,pos,pos,pos,pos,pos,neg,neg,neg,neg,neg,neg
+A,pos,pos,neg,neg,pos,pos,neg,neg,pos,neg,neg,neg,neg
+B,pos,pos,pos,pos,neg,pos,pos,neg,pos,neg,pos,neg,neg
+C,0.8,0.9,0.7,0.6,0.4,0.8,0.4,0.4,0.6,0.4,0.4,0.4,0.2

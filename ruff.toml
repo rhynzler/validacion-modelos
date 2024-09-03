@@ -1,0 +1,3 @@
+# In addition to the standard set of inclusions, include `.pyw` files.
+extend-include = ["*.ipynb"]
+line-length = 120
